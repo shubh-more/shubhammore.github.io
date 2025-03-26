@@ -10,7 +10,7 @@
   <a href="https://github.com/shubh-more">
     <img src="https://img.shields.io/github/followers/yourgithub?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@yourchannel">
+  <a href="https://www.youtube.com/@shubhammore-iv2dd">
     <img src="https://img.shields.io/youtube/channel/subscribers/yourchannelid?style=social" />
   </a>
   <a href="https://linkedin.com/in/mrshubhammore">
@@ -34,8 +34,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mrshubhammore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/yourinsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/yourchannelid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mrshubh_17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@shubhammore-iv2dd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
 ---
