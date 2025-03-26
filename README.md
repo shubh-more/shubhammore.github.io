@@ -25,7 +25,7 @@
 </p>
 
 - 🔧 Expertise in **CI/CD Automation, Kubernetes, Terraform, AWS, Azure, and DevOps tools**  
-- 👨‍💻 Check out my projects at [GitHub](https://github.com/yourgithub)  
+- 👨‍💻 Check out my projects at [GitHub]([https://github.com/shubh-more])  
 - 💬 Ask me about **DevOps, Kubernetes, Cloud Automation**  
 - 📫 Reach me at **moreshubham0008@gmail.com**
 
@@ -69,5 +69,3 @@
 🤝 Open to **Project Collaborations / YouTube Collabs**  
 💼 Offering **DevOps Consulting / Mentorship**  
 📧 Let’s connect: [moreshubham0008@gmail.com](mailto:moreshubham0008@gmail.com)
-
-> *"Empowering businesses through seamless automation and cloud optimization. Let's automate the future, one pipeline at a time!"*
