@@ -7,7 +7,7 @@
 <h3 align="center">A passionate DevOps & Cloud Automation Engineer <a href="https://www.linkedin.com/in/mrshubhammore/" target="_blank">Connect on LinkedIn</a></h3>
 
 <p align="center">
-  <a href="https://github.com/yourgithub">
+  <a href="https://github.com/shubh-more">
     <img src="https://img.shields.io/github/followers/yourgithub?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@yourchannel">
