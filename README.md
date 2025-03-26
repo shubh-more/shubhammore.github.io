@@ -10,9 +10,6 @@
   <a href="https://github.com/shubh-more">
     <img src="https://img.shields.io/github/followers/yourgithub?label=Follow&style=social" />
   </a>
-  <a href="https://www.youtube.com/@shubhammore-iv2dd">
-    <img src="https://img.shields.io/youtube/channel/subscribers/iv2dd&style=social" />
-  </a>
   <a href="https://linkedin.com/in/mrshubhammore">
     <img src="https://img.shields.io/badge/LinkedIn-Shubham%20More-blue?logo=linkedin&style=flat-square" />
   </a>
