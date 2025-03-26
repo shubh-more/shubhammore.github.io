@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/github/followers/yourgithub?label=Follow&style=social" />
   </a>
   <a href="https://www.youtube.com/@shubhammore-iv2dd">
-    <img src="https://img.shields.io/youtube/channel/subscribers/yourchannelid?style=social" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/yourchannelid&style=social" />
   </a>
   <a href="https://linkedin.com/in/mrshubhammore">
     <img src="https://img.shields.io/badge/LinkedIn-Shubham%20More-blue?logo=linkedin&style=flat-square" />
